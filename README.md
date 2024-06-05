@@ -9,12 +9,9 @@ Ce projet vise à concevoir et programmer une voiture intelligente contrôlée p
 
 1. [Finalités du Projet](#finalités-du-projet)
 2. [Problématique](#problématique)
-3. [Spécifications Fonctionnelles](#spécifications-fonctionnelles)
-4. [Technologies Utilisées](#technologies-utilisées)
-5. [Prérequis](#prérequis)
-6. [Installation et Utilisation](#installation-et-utilisation)
-7. [Rendu](#rendu)
-8. [Encadrant](#encadrant)
+3. [Technologies Utilisées](#technologies-utilisées)
+4. [Installation et Utilisation](#installation-et-utilisation)
+
 
 ## Finalités du Projet
 
